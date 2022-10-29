@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = serene.peh@ap.jll.com
+	name = serene peh
